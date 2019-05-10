@@ -1,4 +1,4 @@
-module nameservices
+module nameservice
 
 go 1.12
 

@@ -1,4 +1,4 @@
-module nameservice
+module github.com/maxmijn/nameservice
 
 go 1.12
 
